@@ -1,0 +1,73 @@
+.box{
+    height: 100px;
+    width: 400px;
+    background-color: yellow;
+}
+.box h1{
+    color: red;
+}
+.box span{
+    color: green;
+}
+.box2{
+    height: 100px;
+    width: 400px;
+    background-color: red;
+}
+.box2 h1{
+
+}
+.google h2{
+    font-size: 110px;
+    font-family: poppins;
+}
+.g{
+    color: skyblue;
+}
+.o1{
+    color: red;
+}
+.o2{
+    color: yellow;
+}
+.g{
+    color: skyblue;
+}
+.l{
+    color: green;
+}
+.e{
+    color: red;
+}
+.google-1{
+    width: 300px;
+    padding: 100px 50px 50px 100px;
+    margin-left: 150px;
+    background-color: yellow;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.box{
+    height: 200px;
+    width: 300px;
+    background-color: red;
+    transition: width 2s;
+}
+.box:hover{
+    width: 400px;
+}
+
+.link{
+    margin-left: 500px;
+}
+
+.link a{
+    text-decoration: none;
+    font-size: 18px;
+    border: 1px solid green;
+    padding: 10px 20px;
+    transition: background-color 1s;
+    
+}
+.link a:hover{
+    background-color: red;
+}
